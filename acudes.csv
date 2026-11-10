@@ -1,0 +1,132 @@
+id,nome,municipio,bacia,capacidade_m3,latitude,longitude,estrategico,arquivo
+1,Ouro Velho,Ouro Velho,Região do Alto Curso do Rio Paraíba,1675800,-7.605438145715765,-37.155182345371095,nao,diario/1-ouro-velho.csv
+2,São Domingos,São Domingos do Cariri,Região do Alto Curso do Rio Paraíba,7760200,-7.625308357746374,-36.44786721958523,sim,diario/2-sao-domingos.csv
+3,Prata II,Prata,Região do Alto Curso do Rio Paraíba,1308433,-7.696787691395915,-37.08725147766365,nao,diario/3-prata-ii.csv
+4,Bichinho,Barra de São Miguel,Região do Alto Curso do Rio Paraíba,4574375,-7.74919415703749,-36.3118507766773,nao,diario/4-bichinho.csv
+5,São Paulo,Prata,Região do Alto Curso do Rio Paraíba,8455500,-7.648982231179479,-37.08295048101264,nao,diario/5-sao-paulo.csv
+6,Santo Antônio,São Sebastião do Umbuzeiro,Região do Alto Curso do Rio Paraíba,24424130,-8.103838693174104,-36.991797261404486,nao,diario/6-santo-antonio.csv
+7,Serrote,Monteiro,Região do Alto Curso do Rio Paraíba,5709000,-7.923971768204679,-37.10563881937223,nao,diario/7-serrote.csv
+8,Poções,Monteiro,Região do Alto Curso do Rio Paraíba,29861562,-7.893934748813854,-37.00963867021841,sim,diario/8-pocoes.csv
+9,São José II,Monteiro,Região do Alto Curso do Rio Paraíba,1311540,-7.8828949230141365,-37.07285877718482,nao,diario/9-sao-jose-ii.csv
+10,Pocinhos,Monteiro,Região do Alto Curso do Rio Paraíba,6789305,-7.937607868336648,-37.223803723072045,nao,diario/10-pocinhos.csv
+11,Camalaú,Camalaú,Região do Alto Curso do Rio Paraíba,46437520,-7.891685089407276,-36.8501833454457,sim,diario/11-camalau.csv
+12,Cordeiro (Gov. Wilson Braga),Congo,Região do Alto Curso do Rio Paraíba,69965945,-7.827526978350252,-36.69377998376399,sim,diario/12-cordeiro-gov-wilson-braga.csv
+13,Campos,Caraúbas,Região do Alto Curso do Rio Paraíba,6594392,-7.770428182505636,-36.56375297599082,nao,diario/13-campos.csv
+15,Epitácio Pessoa,Boqueirão,Região do Alto Curso do Rio Paraíba,466525964,-7.519039990618498,-36.213378343179194,sim,diario/15-epitacio-pessoa.csv
+16,Sumé,Sumé,Região do Alto Curso do Rio Paraíba,44864100,-7.670991786963473,-36.9187799095509,sim,diario/16-sume.csv
+18,Jenipapeiro,São José da Lagoa Tapada,Região do Alto Curso do Rio Piranhas,1948300,-6.968315662243228,-38.16824203931494,nao,diario/18-jenipapeiro.csv
+19,Engenheiro Avidos,Cajazeiras,Região do Alto Curso do Rio Piranhas,293617376,-7.020467905202707,-38.47017487077742,sim,diario/19-engenheiro-avidos.csv
+20,Bom Jesus,Carrapateira,Região do Alto Curso do Rio Piranhas,343800,-7.021926065555529,-38.39141115831339,nao,diario/20-bom-jesus.csv
+21,São José I ,São José de Piranhas,Região do Alto Curso do Rio Piranhas,3051125,-7.132978698469072,-38.5060553473486,nao,diario/21-sao-jose-i.csv
+23,Bartolomeu I,Bonito de Santa Fé,Região do Alto Curso do Rio Piranhas,17570556,-7.322064689738364,-38.47808453139948,nao,diario/23-bartolomeu-i.csv
+24,Olho dÁgua,Mari,Região do Baixo Curso do Rio Paraíba,868320,-7.059662504380542,-35.27950308935594,nao,diario/24-olho-dagua.csv
+25,São Salvador,Sapé,Região do Baixo Curso do Rio Paraíba,12657520,-7.077913881376404,-35.20040409709714,nao,diario/25-sao-salvador.csv
+26,Marés,João Pessoa,Região do Baixo Curso do Rio Paraíba,2136637,-7.160579649423381,-34.91345237143901,sim,diario/26-mares.csv
+27,Chã dos Pereiras,Ingá,Região do Baixo Curso do Rio Paraíba,1965600,-7.205708195630086,-35.63633738960384,nao,diario/27-cha-dos-pereiras.csv
+28,Massaranduba,Massaranduba,Mamanguape,604390,-7.162564,-35.717123,nao,diario/28-massaranduba.csv
+29,Chupadouro II,Serra Redonda,Mamanguape,634620,-7.166720879908324,-35.69489944601141,nao,diario/29-chupadouro-ii.csv
+30,Cachoeira dos Alves,Itaporanga,Piancó,10611196,-7.3136616904582255,-38.227738812832925,nao,diario/30-cachoeira-dos-alves.csv
+31,Duas Estradas,Duas Estradas,Camaratuba,410260,-6.703432675319083,-35.4436443036219,nao,diario/31-duas-estradas.csv
+32,Jatobá I,Patos,Espinharas,17516000,-7.072171360878308,-37.27400821267508,sim,diario/32-jatoba-i.csv
+33,Farinha,Patos,Espinharas,25738500,-7.093197514397843,-37.23909162033326,sim,diario/33-farinha.csv
+34,Capoeira,Santa Teresinha,Espinharas,53450000,-7.169915439544971,-37.40585609617414,nao,diario/34-capoeira.csv
+35,Riacho das Moças,Teixeira,Espinharas,6413411,-7.244348169032527,-37.32020577703081,nao,diario/35-riacho-das-mocas.csv
+36,São Francisco II,Teixeira,Espinharas,4920720,-7.245479432045804,-37.20864799179839,nao,diario/36-sao-francisco-ii.csv
+37,Bastiana,Teixeira,Espinharas,1271560,-7.251313841493588,-37.282695421150216,nao,diario/37-bastiana.csv
+38,Sabonete,Teixeira,Espinharas,1952540,-7.261373250408575,-37.29288531067005,nao,diario/38-sabonete.csv
+39,Gramame / Mamuaba,Conde,Gramame,56937000,-7.292675904648926,-34.97862167228442,sim,diario/39-gramame-mamuaba.csv
+40,Boqueirão do Cais,Cuité,Jacu,12367300,-6.524735884772232,-36.12287938685525,nao,diario/40-boqueirao-do-cais.csv
+41,Covão,Areial,Mamanguape,672260,-7.02943430668585,-35.92109581057933,nao,diario/41-covao.csv
+42,São Sebastião,São Sebastião de Lagoa de Roça,Mamanguape,453075,-7.095265877197779,-35.862931116145,nao,diario/42-sao-sebastiao.csv
+43,Canafístula II,Borborema,Mamanguape,4102626,-6.791115253485496,-35.62304642419791,nao,diario/43-canafistula-ii.csv
+44,Tauá,Cuitegi,Mamanguape,8573500,-6.918917223866479,-35.55069901480533,nao,diario/44-taua.csv
+45,Lagoa do Matias,Bananeiras,Mamanguape,1239883,-6.73582910999557,-35.58132734387153,nao,diario/45-lagoa-do-matias.csv
+46,Pirpirituba,Pirpirituba,Mamanguape,4666188,-6.809520451672912,-35.57489682686365,nao,diario/46-pirpirituba.csv
+47,Jangada,Mamanguape,Mamanguape,470000,-6.815516406846563,-35.11995228125523,nao,diario/47-jangada.csv
+48,Brejinho,Juarez Távora,Mamanguape,789000,-7.134696323446084,-35.62084721469393,nao,diario/48-brejinho.csv
+49,Vaca Brava,Areia,Mamanguape,3783556,-6.988669222616784,-35.75359795647137,nao,diario/49-vaca-brava.csv
+50,Milhã (Evaldo Gonçalves),Puxinanã,Região do Médio Curso do Rio Paraíba,802684,-7.140232636449318,-35.95476533326224,nao,diario/50-milha-evaldo-goncalves.csv
+51,Gavião,Fagundes,Região do Baixo Curso do Rio Paraíba,1450840,-7.355471264572665,-35.74302728843792,nao,diario/51-gaviao.csv
+52,Riacho de Santo Antônio,Riacho de Santo Antônio,Região do Médio Curso do Rio Paraíba,6834000,-7.706100276050827,-36.16728518916129,nao,diario/52-riacho-de-santo-antonio.csv
+53,Emas,Emas,Piancó,2013750,-7.070875964598436,-37.73622540216208,nao,diario/53-emas.csv
+54,Cachoeira dos Cegos,Catingueira,Piancó,71887047,-7.08525019720649,-37.637541267906386,nao,diario/54-cachoeira-dos-cegos.csv
+55,Cochos,Igaracy,Piancó,4200000,-7.1821576510117,-38.16560476892254,nao,diario/55-cochos.csv
+56,Cafundó,Serra Grande,Piancó,313680,-7.205598132163225,-38.377409367760656,nao,diario/56-cafundo.csv
+57,Pimenta,São José de Caiana,Piancó,255744,-7.225140222080747,-38.30100481598227,nao,diario/57-pimenta.csv
+59,Jenipapeiro (Buiú),Olho d'Água,Piancó,70757250,-7.340854078059973,-37.75131431888142,nao,diario/59-jenipapeiro-buiu.csv
+60,Video,Conceição,Piancó,6040264,-7.367753612176549,-38.41369306746872,nao,diario/60-video.csv
+61,Albino,Imaculada,Piancó,1833955,-7.373938819373052,-37.51867533587316,nao,diario/61-albino.csv
+62,Queimadas,Santana dos Garrotes,Piancó,15625338,-7.396645743947507,-37.96071798198406,nao,diario/62-queimadas.csv
+63,Vazante,Diamante,Piancó,9091200,-7.421932211661739,-38.37914920670779,nao,diario/63-vazante.csv
+65,Bom Jesus II,Água Branca,Piancó,14636457,-7.459254545577669,-37.63374363435423,nao,diario/65-bom-jesus-ii.csv
+66,Piranhas,Ibiara,Piancó,25696200,-7.50438969417788,-38.454020025732795,nao,diario/66-piranhas.csv
+67,Saco,Nova Olinda,Piancó,97488089,-7.524576267394213,-38.0540803152929,sim,diario/67-saco.csv
+68,Serra Vermelha I,Conceição,Piancó,11801173,-7.544485893668711,-38.52835052790172,nao,diario/68-serra-vermelha-i.csv
+69,Glória,Juru,Piancó,1349980,-7.53951894811875,-37.78564139109196,nao,diario/69-gloria.csv
+70,Bruscas,Curral Velho,Piancó,38206463,-7.5493361340739025,-38.15184475458489,nao,diario/70-bruscas.csv
+71,Timbaúba,Juru,Piancó,15438572,-7.560897774347391,-37.81755754240677,nao,diario/71-timbauba.csv
+72,Santa Inês,Santa Inês,Piancó,29684041,-7.633528948906296,-38.60223696403748,nao,diario/72-santa-ines.csv
+74,Catolé I,Manaíra,Piancó,10500000,-7.697787921652985,-38.18077351193414,nao,diario/74-catole-i.csv
+75,Jatobá II,Princesa Isabel,Piancó,5660979,-7.719236209381938,-37.980786813921824,nao,diario/75-jatoba-ii.csv
+76,Coremas,Coremas,Piancó,744144694,-7.083218404103514,-37.90612223552556,sim,diario/76-coremas.csv
+77,Mãe dÁgua,Coremas,Piancó,545017499,-7.069494998306964,-38.03165327960388,sim,diario/77-mae-dagua.csv
+78,Serra Branca I,Serra Branca,Taperoá,2117062,-7.471608232667232,-36.667032350597445,nao,diario/78-serra-branca-i.csv
+80,Lagoa do Meio,Taperoá,Taperoá,6647875,-7.160455517308304,-36.76498519169783,nao,diario/80-lagoa-do-meio.csv
+81,Gurjão,Gurjão,Taperoá,3786215,-7.242301834969369,-36.500546254443165,nao,diario/81-gurjao.csv
+82,Taperoá II (Manoel Marcionilo),Taperoá,Taperoá,14797430,-7.212536552758535,-36.84761888443225,sim,diario/82-taperoa-ii-manoel-marcionilo.csv
+83,Livramento (Russos),Livramento,Taperoá,2432420,-7.369863332579642,-36.90402680790214,nao,diario/83-livramento-russos.csv
+84,Jeremias,Desterro,Taperoá,4658430,-7.288270122028723,-37.100803045068936,nao,diario/84-jeremias.csv
+86,São José IV,São José do Sabugi,Seridó,554100,-6.7876133449623826,-36.78733768043934,nao,diario/86-sao-jose-iv.csv
+87,São José III,São José dos Cordeiros,Taperoá,956000,-7.3811126740024475,-36.807910441860564,nao,diario/87-sao-jose-iii.csv
+88,Serra Branca II,Serra Branca,Taperoá,14042568,-7.481520843435159,-36.6865817755393,nao,diario/88-serra-branca-ii.csv
+89,Namorado,São João do Cariri,Taperoá,2118980,-7.384545489270036,-36.53417420824968,nao,diario/89-namorado.csv
+90,Soledade,Soledade,Taperoá,27058000,-7.063162257276602,-36.33766182791393,nao,diario/90-soledade.csv
+91,Mucutu,Juazeirinho,Taperoá,25373341,-7.122306309409177,-36.66151154137387,nao,diario/91-mucutu.csv
+92,Olivedos,Olivedos,Taperoá,5875124,-6.9590369331679724,-36.23997010074716,nao,diario/92-olivedos.csv
+93,Poleiros,Barra de Santa Rosa,Curimataú,7933700,-6.729284022931475,-36.101026916723576,nao,diario/93-poleiros.csv
+95,Cacimba de Várzea,Cacimba de Dentro,Curimataú,9264321,-6.686804619565568,-35.78999769512735,nao,diario/95-cacimba-de-varzea.csv
+96,Curimataú,Barra de Santa Rosa,Curimataú,5989250,-6.711035693089751,-36.04308034777817,nao,diario/96-curimatau.csv
+97,Algodão,Algodão de Jandaíra,Curimataú,1025425,-6.907958218878674,-36.00428316109717,nao,diario/97-algodao.csv
+98,Araçagi,Araçagi,Mamanguape,63289037,-6.866770012272731,-35.334756848271894,sim,diario/98-aracagi.csv
+99,Condado,Conceição,Piancó,35016000,-7.562025846692382,-38.56093980366857,nao,diario/99-condado.csv
+100,Tavares II,Tavares,Piancó,9000000,-7.597458833562938,-37.91226640196828,nao,diario/100-tavares-ii.csv
+101,Engenheiro Arcoverde,Condado,Região do Médio Curso do Rio Piranhas,36834375,-6.9262763506769485,-37.583955674180615,nao,diario/101-engenheiro-arcoverde.csv
+102,Escondido,Belém do Brejo do Cruz,Região do Médio Curso do Rio Piranhas,16579250,-6.1880193687736895,-37.55126482942262,nao,diario/102-escondido.csv
+103,Riacho dos Cavalos,Riacho dos Cavalos,Região do Médio Curso do Rio Piranhas,17699000,-6.422917467258587,-37.65632174462396,nao,diario/103-riacho-dos-cavalos.csv
+104,Santa Rosa,Brejo do Cruz,Região do Médio Curso do Rio Piranhas,2843984,-6.321549324290558,-37.52083559394753,nao,diario/104-santa-rosa.csv
+105,Baião,Belém do Brejo do Cruz,Região do Médio Curso do Rio Piranhas,39224628,-6.169240986492895,-37.34379676142412,nao,diario/105-baiao.csv
+106,Tapera,Belém do Brejo do Cruz,Região do Médio Curso do Rio Piranhas,26418660,-6.244837716453082,-37.48886081291004,nao,diario/106-tapera.csv
+107,Carneiro,Jericó,Região do Médio Curso do Rio Piranhas,31285875,-6.516952020125381,-37.85884250737826,nao,diario/107-carneiro.csv
+109,Caraibeiras,Picuí,Seridó,2709260,-6.560063425051498,-36.382044015907574,nao,diario/109-caraibeiras.csv
+110,Várzea Grande,Picuí,Seridó,21532659,-6.446277417094442,-36.348731003072146,nao,diario/110-varzea-grande.csv
+111,Arrojado,Uiraúna,Peixe,3596180,-6.501795716913409,-38.40916855705447,nao,diario/111-arrojado.csv
+114,Felismina Queiroz,São Vicente do Seridó,Seridó,2060000,-6.850700669419519,-36.40387534062254,nao,diario/114-felismina-queiroz.csv
+117,São Mamede,São Mamede,Seridó,15791280,-6.936804164639432,-37.06490888025968,nao,diario/117-sao-mamede.csv
+118,Santa Luzia,Santa Luzia,Seridó,11960250,-6.880920464857046,-36.92153550901327,nao,diario/118-santa-luzia.csv
+119,Paraíso (Luiz Oliveira),São Francisco,Peixe,5340024,-6.594456506073646,-38.054061905269684,nao,diario/119-paraiso-luiz-oliveira.csv
+122,Lagoa do Arroz,Cajazeiras,Peixe,80388537,-6.813404358418405,-38.59303643466264,sim,diario/122-lagoa-do-arroz.csv
+123,Cachoeira da Vaca,Cachoeira dos Índios,Peixe,339156,-6.957721809497116,-38.6786917108846,nao,diario/123-cachoeira-da-vaca.csv
+124,Gamela,Triunfo,Peixe,472926,-6.574483080871922,-38.60979074375224,nao,diario/124-gamela.csv
+125,Pilões,São João do Rio do Peixe,Peixe,7888854,-6.6847446278648945,-38.52079989879898,nao,diario/125-piloes.csv
+126,Acauã (Argemiro de Figueiredo),Itatuba,Região do Médio Curso do Rio Paraíba,253142247,-7.4795319666437345,-35.5956103418746,sim,diario/126-acaua-argemiro-de-figueiredo.csv
+128,Suspiro,Serra da Raiz,Camaratuba,276400,-6.725124071330052,-35.47969147720664,nao,diario/128-suspiro.csv
+129,Emídio,Montadas,Mamanguape,415770,-7.0928930758377895,-35.928169933009684,nao,diario/129-emidio.csv
+130,Capivara,Uiraúna,Peixe,37549827,-6.538,-38.468,nao,diario/130-capivara.csv
+131,Nova Camará,Alagoa Nova,Mamanguape,26581614,-7.038,-35.741,sim,diario/131-nova-camara.csv
+134,Frutuoso II,Aguiar,Piancó,3517220,-7.12,-38.197,nao,diario/134-frutuoso-ii.csv
+135,José Rodrigues,Campina Grande,Região do Baixo Curso do Rio Paraíba,22332348,-7.315,-35.789,nao,diario/135-jose-rodrigues.csv
+136,Poço Redondo,Santana de Mangueira,Piancó,8931340,-7.586192,-38.304972,nao,diario/136-poco-redondo.csv
+137,São Gonçalo,Sousa,Região do Alto Curso do Rio Piranhas,40582277,-6.844914,-38.311095,sim,diario/137-sao-goncalo.csv
+139,Riacho Verde,Boa Ventura,Piancó,1256250,-7.427,-38.156,nao,diario/139-riacho-verde.csv
+140,Sindô Ribeiro,Massaranduba,Mamanguape,3022715,-7.153,-35.731,nao,diario/140-sindo-ribeiro.csv
+142,Jandaia,Bananeiras,Curimataú,10032266,-6.659469,-35.678614,nao,diario/142-jandaia.csv
+143,Manguape,São Sebastião de Lagoa de Roça,Mamanguape,655375,-7.088883079065233,-35.87213487840331,nao,diario/143-manguape.csv
+145,Saulo Maia,Areia,Mamanguape,9833615,-6.917,-35.676,sim,diario/145-saulo-maia.csv
+146,Pitombeira,Alagoa Grande,Mamanguape,2955820,-6.995,-35.649,nao,diario/146-pitombeira.csv
+154,Retiro,Cuité,Jacu,40500000,-6.4918,-35.9668,nao,diario/154-retiro.csv
+157,Riacho Fundo,Tenório,Seridó,298616,-6.922389,-36.585222,nao,diario/157-riacho-fundo.csv
+158,Pedra Lisa,Imaculada,Piancó,4929420,-7.404113,-37.6029,nao,diario/158-pedra-lisa.csv
+159,Mameluco,Ibiara,Piancó,6041750,-7.594072,-38.402283,nao,diario/159-mameluco.csv
+160,Lancha I,Aguiar,Piancó,5675800,-7.083889,-38.263889,nao,diario/160-lancha-i.csv
+161,Coronel Jueca,Cacimbas,Taperoá,6126875,-7.2565,-37.049389,nao,diario/161-coronel-jueca.csv
+162,Cacimbinha,São Vicente do Seridó,Seridó,2156560,-6.9005,-36.522194,nao,diario/162-cacimbinha.csv
